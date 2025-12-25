@@ -1,0 +1,9 @@
+title: Lộc Nguyễn – Engineering Notes
+description: Distributed Systems, Java, Storage, Messaging
+theme: minima
+
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-feed
