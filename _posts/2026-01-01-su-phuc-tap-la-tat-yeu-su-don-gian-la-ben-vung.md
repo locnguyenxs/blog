@@ -37,7 +37,7 @@ Vì vậy, **phức tạp không phải là sai lầm**. Đó là hệ quả c�
 Nếu phức tạp là tất yếu, thì tại sao các hệ thống vẫn có lúc phải "đập đi xây lại"? Câu trả lời nằm ở *Accidental Complexity* (Sự phức tạp ngẫu nhiên/không cần thiết).
 
 Hệ thống hiếm khi rơi vào bế tắc vì quy mô lớn. Mà là:
-* Khi những giải pháp tạm thời  "ngủ quên" và trở thành kiến trúc chính thức.
+* Khi những giải pháp tạm thời, chưa tối ưu  "ngủ quên" và trở thành kiến trúc chính thức.
 * Khi các lớp trừu tượng không còn che giấu được sự phức tạp bên dưới mà trở thành gánh nặng cho bảo trì.
 * Khi nỗ lực để triển khai tính năng mới trở nên bất cân xứng, code vài dòng nhưng tốn nhiều giờ để đọc hiểu.
 * Khi mã nguồn dính chặt vào nhau, một thay đổi nhỏ cũng kích hoạt **hiệu ứng cánh bướm**, gây lỗi dây chuyền.
