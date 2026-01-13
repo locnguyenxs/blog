@@ -86,7 +86,7 @@ Khi càng làm lâu, mình càng nhận ra tư duy này không chỉ đúng tron
 
 Cuộc sống hiện đại vốn dĩ cũng giống như một hệ thống phân tán vậy: quá nhiều thông tin, quá nhiều mối quan hệ, quá nhiều áp lực và biến số. **Sự phức tạp đó là tất yếu**, ta không tránh được. Nếu cứ để mình bị cuốn theo, cố gắng "scale" bản thân để xử lý mọi thứ cùng lúc mà không có kiểm soát, ta sẽ sớm rơi vào trạng thái quá tải và kiệt sức.
 
-Vì thế, có những lúc cần phải **dừng lại một nhịp** để suy nghĩ kỹ hơn, hay chấp nhận tốn công bắt đầu lại để có được **nền tảng tốt hơn**.
+Vì thế, có những lúc cần **dừng lại một nhịp** để suy nghĩ kỹ hơn hay chấp nhận bắt đầu lại để vững bước tiến xa hơn.
 
 **“Sự đơn giản là bền vững”** không chỉ là nguyên tắc làm việc, mà là triết lý sống mà mình đang tập theo đuổi.
 
