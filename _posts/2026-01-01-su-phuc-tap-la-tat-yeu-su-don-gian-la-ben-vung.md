@@ -84,14 +84,16 @@ Suy cho cùng, trong vòng đời của một hệ thống, công nghệ sẽ l�
 
 Khi càng làm lâu, mình càng nhận ra tư duy này không chỉ đúng trong công việc, mà nó đúng với cả cuộc sống của chính mình.
 
-Cuộc sống hiện đại vốn dĩ cũng giống như một hệ thống phân tán vậy: quá nhiều thông tin, quá nhiều mối quan hệ, quá nhiều áp lực và biến số. **Sự phức tạp đó là tất yếu**, ta không tránh được. Nếu cứ để mình bị cuốn theo, cố gắng "scale" bản thân để xử lý mọi thứ cùng lúc mà không có kiểm soát, ta sẽ sớm rơi vào trạng thái quá tải và kiệt sức (burnout).
+Cuộc sống hiện đại vốn dĩ cũng giống như một hệ thống phân tán vậy: quá nhiều thông tin, quá nhiều mối quan hệ, quá nhiều áp lực và biến số. **Sự phức tạp đó là tất yếu**, ta không tránh được. Nếu cứ để mình bị cuốn theo, cố gắng "scale" bản thân để xử lý mọi thứ cùng lúc mà không có kiểm soát, ta sẽ sớm rơi vào trạng thái quá tải và kiệt sức.
 
-Vì thế, **"Sự đơn giản là bền vững"** không chỉ là nguyên tắc làm việc, mà là triết lý sống mà mình đang tập theo đuổi.
+Vì thế, có những lúc cần phải **dừng lại một nhịp** để suy nghĩ kỹ hơn, hay chấp nhận tốn công bắt đầu lại để có được **nền tảng tốt hơn**.
+
+**“Sự đơn giản là bền vững”** không chỉ là nguyên tắc làm việc, mà là triết lý sống mà mình đang tập theo đuổi.
 
 Đơn giản ở đây **không phải là chối bỏ hay trốn tránh** thế giới phức tạp.
 Đơn giản là năng lực **kiểm soát sự phức tạp**:
-* Biết gạt bỏ những nhiễu động (noise) để tập trung vào những gì cốt lõi nhất.
-* Biết chấp nhận đánh đổi để giữ cho tâm trí được sáng rõ.
+* Biết gạt bỏ những nhiễu động để tập trung vào những gì cốt lõi nhất.
+* Biết từ chối những "thỏa mãn" ngắn hạn để tạo nên những giá trị dài hạn.
 
 Chỉ khi giữ được sự đơn giản, ta mới duy trì được sự tỉnh táo và sức bền cần thiết để đi qua những giai đoạn phức tạp nhất của cuộc đời, từ đó tìm thấy hạnh phúc một cách bền vững.
 
