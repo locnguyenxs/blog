@@ -2,11 +2,11 @@
 layout: post
 title: "Sự phức tạp là tất yếu. Sự đơn giản là bền vững."
 date: 2026-01-01
-last_modified_at: 2026-01-12
+last_modified_at: 2026-01-14
 categories: [Architecture, Principles]
 tags: [simplicity, trade-offs, mindset, sustainability, technical-debt]
 # description: "Sự phức tạp là cái giá phải trả cho tăng trưởng, sự đơn giản là khoản đầu tư cho tương lai. Bài viết chia sẻ về tư duy kiến trúc hệ thống thông qua hành trình thay đổi tư duy từ một kỹ sư trẻ đến vai trò quản lý kỹ thuật."
-image: /assets/img/posts/2026-01-01/thumb.jpg
+image: /assets/img/posts/2026-01-01/cover.jpg
 ---
 
 Trong những năm tháng đầu tiên của sự nghiệp kỹ sư, mình từng có một niềm tin mãnh liệt rằng: Một hệ thống "xịn" phải là nơi hội tụ những công nghệ mới nhất, sở hữu những lớp abstraction tầng tầng lớp lớp và càng nhiều "magic code" thì càng chứng tỏ đẳng cấp của người tạo ra nó.
