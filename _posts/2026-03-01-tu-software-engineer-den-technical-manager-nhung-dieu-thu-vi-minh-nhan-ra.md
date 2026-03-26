@@ -29,7 +29,7 @@ Nhưng khi sản phẩm lớn lên, sự phức tạp của hệ thống là đi
 
 Đó là biết **khi nào nên dừng lại** thay vì tiếp tục đắp thêm logic vào hệ thống, là sự dũng cảm khi dám bước ra khỏi vùng an toàn để thay đổi những cấu trúc cũ kỹ lỗi thời, là bản lĩnh để thực hiện những cuộc "thanh lọc" hệ thống đầy đau đớn. Hay cả những cuộc tranh luận nảy lửa để phản biện lại những luồng nghiệp vụ phức tạp nhưng chưa đủ giá trị từ phía Product và Business.
 
-Và không có sự cố gắng nào là lãng phí, mình tin rằng: 
+Và sẽ có những giai đoạn cả team phải **“gồng mình”** vừa phát triển tính năng, vừa nâng cấp hệ thống. Nhưng những nỗ lực đó không hề lãng phí, mình tin rằng:
 
 > **Hệ thống càng ít tiêu sản,**  
 > **team càng có nhiều không gian để tạo ra tài sản.**
