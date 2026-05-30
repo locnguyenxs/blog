@@ -80,7 +80,7 @@ Và ngay cả khi data-first là đúng hướng, tôi cũng học được rằ
 
 **Một là khi nghiệp vụ còn chưa định hình.** Trong giai đoạn đi tìm product-market fit, thứ đắt giá nhất không phải một schema chuẩn mực, mà là tốc độ thử và sai. Cố thiết kế một mô hình dữ liệu hoàn hảo cho một nghiệp vụ mà ngày mai có thể đổi hoàn toàn là một dạng lãng phí tinh vi. Những lúc ấy, bắt đầu từ hành vi, từ API, từ trải nghiệm người dùng rồi để dữ liệu định hình sau lại là lựa chọn hợp lý hơn. "Đúng" về data mà "trễ" về thị trường thì vẫn là thua.
 
-**Hai là khi data-first biến thành over-modeling.** Tôi từng chứng kiến, và từng tự mình gây ra, những thiết kế cố dự đoán mọi tình huống tương lai, để rồi có một schema phức tạp đến mức chẳng ai dám động vào, kiểu dùng dao mổ trâu để giết một con gà. Mô hình hóa quá sớm cho những thứ chưa chắc xảy ra cũng phiền không kém việc thiết kế cẩu thả.
+**Hai là khi data-first biến thành over-modeling.** Tôi từng chứng kiến, và từng tự mình gây ra, những thiết kế cố dự đoán mọi tình huống tương lai, để rồi có một schema phức tạp đến mức chẳng ai dám động vào, kiểu dùng dao mổ trâu để mổ một con gà. Mô hình hóa quá sớm cho những thứ chưa chắc xảy ra cũng phiền không kém việc thiết kế cẩu thả.
 
 Nên phần khó hơn không nằm ở việc tin vào một nguyên tắc, mà ở chỗ nhận ra khi nào nên dựa vào nó và khi nào nên gác nó sang một bên. Đó là thứ tôi vẫn đang học.
 
