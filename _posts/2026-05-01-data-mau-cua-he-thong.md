@@ -2,7 +2,7 @@
 layout: post
 title: "Data - 'Máu' Của Hệ Thống"
 date: 2026-05-01
-last_modified_at: 2026-05-01
+last_modified_at: 2026-05-31
 categories: [Architecture, Principles]
 tags: [system-design, distributed-systems, data, backend, engineering]
 image: /assets/img/posts/2026-05-01/cover.jpg
